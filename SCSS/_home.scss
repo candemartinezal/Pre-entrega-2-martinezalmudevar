@@ -1,0 +1,63 @@
+/*HOME-INDEX*/
+
+@mixin anclas {
+text-decoration: none;
+color: black;
+text-transform: none;
+}
+
+
+.body {
+    background-color: $color-fondo;
+    font-family: Montserrat;
+    font-family: 12px;
+    line-height: 20px;
+  }
+  
+  .nav {
+    list-style-type: none;
+    margin-top: 210px;
+    margin-bottom: 100px;
+    font-size: 8vw;
+  }
+  
+  .list1 {
+    margin-top: 90px;
+    font-family: 'Fahkwang', sans-serif;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  a {
+   @include anclas()
+  }
+  
+  .texto {
+    margin-top: 520px;
+  }
+  
+  .bio {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 25px;
+  }
+  
+  .description {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-bottom: 25px;
+  }
+  
+  .descriptionn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  

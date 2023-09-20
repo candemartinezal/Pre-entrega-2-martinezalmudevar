@@ -1,264 +1,242 @@
-/*ABOUT*/
-
-.home {
-    margin-left: 800px;
-    margin-top: 20px;
-}
-
-.about {
-    margin-left: 900px;
-    margin-top: -20px;
-}
-
-.experience {
-    margin-left: 1000px;
-    margin-top: -20px;
-}
-
-.work {
-    margin-left: 1150px;
-    margin-top: -20px;
-}
-
-.sayhi {
-    margin-left: 1250px;
-    margin-top: -20px;
-}
-
-.body main div {
-    font-family: 'Fahkwang', sans-serif;
-    font-size: 50px;
-    letter-spacing: 5px;
-    margin-left: 100px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-weight: 600px;
-}
-
-.aboutme {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-bottom: 20px;
-}
-
-
-
-.aboutmee {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-bottom: 10px;
-    font-weight: 400;
-
-}
-
-.quote {
-    font-size: 25px;
-    letter-spacing: 1.4px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-    font-weight: 200;
-}
-
-.skills {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-bottom: 15px;
-}
-
-.groupbutton {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-.button {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-top: 100px;
-}
-
-.imagen {
-    width: 450px;
-    height: 450px;
-}
-
-
-/*EXPERIENCE*/
-
-.job {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-bottom: 10px;
-    font-weight: bold;
-}
-
-.day {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 13px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-bottom: 10px;
-    font-style: oblique;
-}
-
-.descriptionjob {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-left: -30px;
-    margin-bottom: 80px;
-
-}
-
-
-/*WORK*/
-
-
-.tittle {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-    margin-top: 100px;
-}
-
-h3 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    letter-spacing: 1px;
-    font-style: oblique;
-
-}
-
-
-/*SAYHI*/
-
-.body1 {
-    background-color: #ece7e1;
-}
-
-.mifondo {
-    background-color: #ece7e1;
-}
-
-.container {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-top: 0px;
-}
-
-.h1 {
-    font-family: 'Fahkwang', sans-serif;
-    font-size: 100px;
-    letter-spacing: 5px;
-    margin-top: 50px;
-}
-
-.h2 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 0px;
-    margin-top: 20px;
-    margin-bottom: 0%;
-}
-
-.form {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-left: 0px;
-    margin-top: 20px;
-
-}
-
-.button {
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-.footer {
-    font-family: 'Montserrat', sans-serif;
-
-    margin-bottom: 30px;
-    text-align: center;
-    font-size: 12px;
-    margin-top: 40px;
-
-}
-
-
-
-/*HOME-INDEX*/
+@import url(https://fonts.googleapis.com/css2?family=Fahkwang:wght@200&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap);
 .body {
-    background-color: #ece7e1;
-    font-family: Montserrat;
-    font-family: 12px;
-    line-height: 20px;
+  background-color: #ece7e1;
+  font-family: Montserrat;
+  font-family: 12px;
+  line-height: 20px;
 }
 
 .nav {
-    list-style-type: none;
-    margin-top: 210px;
-    margin-bottom: 100px;
-    font-size: 8vw;
+  list-style-type: none;
+  margin-top: 210px;
+  margin-bottom: 100px;
+  font-size: 8vw;
 }
 
-.list1{
-    margin-top: 90px;
-    font-family: 'Fahkwang', sans-serif;
+.list1 {
+  margin-top: 90px;
+  font-family: "Fahkwang", sans-serif;
 }
-
 
 li {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 a {
-    text-decoration: none;
-    text-transform: none;
-    color: black;
-    
+  text-decoration: none;
+  text-transform: none;
+  color: black;
 }
 
-
-
 .texto {
-    margin-top: 520px;
-    }
-
+  margin-top: 520px;
+}
 
 .bio {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 20px;
-    letter-spacing: 1px;
-    margin-bottom: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
 }
 
 .description {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: normal;
-    font-size: 15px;
-    letter-spacing: 1px;
-    margin-bottom: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
 }
 
 .descriptionn {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    font-size: 15px;
-    letter-spacing: 1px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 1px;
 }
+
+.home {
+  margin-left: 800px;
+  margin-top: 20px;
+}
+
+.about {
+  margin-left: 900px;
+  margin-top: -20px;
+}
+
+.experience {
+  margin-left: 1000px;
+  margin-top: -20px;
+}
+
+.work {
+  margin-left: 1150px;
+  margin-top: -20px;
+}
+
+.sayhi {
+  margin-left: 1250px;
+  margin-top: -20px;
+}
+
+.body main div {
+  font-family: "Fahkwang", sans-serif;
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-left: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 600px;
+}
+
+.aboutme {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.aboutmee {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+.quote {
+  font-size: 25px;
+  letter-spacing: 1.4px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  font-weight: 200;
+}
+
+.skills {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-bottom: 15px;
+}
+
+.groupbutton {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.button {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 100px;
+}
+
+.imagen {
+  width: 450px;
+  height: 450px;
+}
+
+.job {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.day {
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-style: oblique;
+}
+
+.descriptionjob {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-left: -30px;
+  margin-bottom: 80px;
+}
+
+.tittle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 100px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-style: oblique;
+}
+
+.body1 {
+  background-color: #ece7e1;
+}
+
+.mifondo {
+  background-color: #ece7e1;
+}
+
+.container {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 0px;
+}
+
+.h1 {
+  font-family: "Fahkwang", sans-serif;
+  font-size: 100px;
+  letter-spacing: 5px;
+  margin-top: 50px;
+}
+
+.h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.form {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+
+.button {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.footer {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 40px;
+}
+
+/*# sourceMappingURL=estilo.css.map */
