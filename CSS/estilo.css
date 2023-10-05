@@ -239,4 +239,46 @@ h3 {
   margin-top: 40px;
 }
 
+@media (min-width: 200px) and (max-width: 500px) {
+  .texto {
+    margin-top: 100px;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 500px) {
+  .nav {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 500px) {
+  .list1 {
+    margin-top: 20px;
+    margin-left: -30px;
+  }
+}
+
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+  .texto {
+    margin-top: 100px;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 600px) {
+  .todalista {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 600px) {
+  .list1 {
+    margin-top: 20px;
+    margin-left: -30px;
+  }
+}
+
 /*# sourceMappingURL=estilo.css.map */
